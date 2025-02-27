@@ -1,0 +1,6 @@
+com/bsanju/todoapp/service/TaskService.class
+com/bsanju/todoapp/repository/TaskRepository.class
+com/bsanju/todoapp/model/Task.class
+com/bsanju/todoapp/controller/TaskController$IndexController.class
+com/bsanju/todoapp/controller/TaskController.class
+com/bsanju/todoapp/ToDoAppApplication.class

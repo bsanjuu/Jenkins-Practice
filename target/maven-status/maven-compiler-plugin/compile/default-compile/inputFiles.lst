@@ -1,0 +1,5 @@
+/Users/bug/gitProjects/Jenkins-Practice/src/main/java/com/bsanju/todoapp/ToDoAppApplication.java
+/Users/bug/gitProjects/Jenkins-Practice/src/main/java/com/bsanju/todoapp/controller/TaskController.java
+/Users/bug/gitProjects/Jenkins-Practice/src/main/java/com/bsanju/todoapp/model/Task.java
+/Users/bug/gitProjects/Jenkins-Practice/src/main/java/com/bsanju/todoapp/repository/TaskRepository.java
+/Users/bug/gitProjects/Jenkins-Practice/src/main/java/com/bsanju/todoapp/service/TaskService.java
